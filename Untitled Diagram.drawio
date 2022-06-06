@@ -1,4 +1,4 @@
-<mxfile modified="2022-06-06T09:31:37.979Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="rEkj_0PRZpTAXgjK2V2D" version="19.0.0" type="github">
+<mxfile modified="2022-06-06T10:41:24.695Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="PKe4F5rlO4mYKC8X10Wc" version="19.0.0" type="github">
   <diagram id="l8hXMBHkgcEJcSW0mbfh" name="Page-1">
     <mxGraphModel dx="1182" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -155,11 +155,32 @@
         <mxCell id="bdXtoxvxBzYGdb3dqPep-60" value="算法3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="570" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="bdXtoxvxBzYGdb3dqPep-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bdXtoxvxBzYGdb3dqPep-61" target="bdXtoxvxBzYGdb3dqPep-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bdXtoxvxBzYGdb3dqPep-61" value="DT&#39;&#39;_i" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="470" y="640" width="300" height="70" as="geometry" />
         </mxCell>
         <mxCell id="bdXtoxvxBzYGdb3dqPep-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bdXtoxvxBzYGdb3dqPep-61" target="bdXtoxvxBzYGdb3dqPep-61">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bdXtoxvxBzYGdb3dqPep-66" value="计算 δi，ti" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="660" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bdXtoxvxBzYGdb3dqPep-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bdXtoxvxBzYGdb3dqPep-68" target="bdXtoxvxBzYGdb3dqPep-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bdXtoxvxBzYGdb3dqPep-68" value="W_i" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="596.25" y="600" width="47.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bdXtoxvxBzYGdb3dqPep-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bdXtoxvxBzYGdb3dqPep-69" target="bdXtoxvxBzYGdb3dqPep-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bdXtoxvxBzYGdb3dqPep-69" value="决定p正负" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="600" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bdXtoxvxBzYGdb3dqPep-72" value="算法4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="570" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
